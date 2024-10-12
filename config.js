@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "923444844060;Qasim";
+const ownervb = process.env.OWNERS || "237698947449;*♠️ 𝑴𝒂𝒔𝒉𝒍𝒆 ~✦ 𝑪𝒂𝒔𝒕𝒍𝒆 ♠️* ";
 
 const ownerlist = ownervb.split(';');
 
@@ -22,11 +22,11 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 console.log(global.owner);
 
-global.botNumber = '923051391007'; // Put your number here for pairing directly
+global.botNumber = '237698947449'; // Put your number here for pairing directly
 
-global.mods = ['923444844060'];
-global.prems = ['923444844060']
-global.allowed = ['923444844060']
+global.mods = ['237698947449'];
+global.prems = ['237651506147']
+global.allowed = ['237672832546']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,10 +73,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'GLOBAL-MD-V3'
+global.botname = 'G~V~B'
 global.premium = 'true'
-global.packname = 'GLOBAL BOT'
-global.author = 'GlobalTechInfo'
+global.packname = 'Vlaad BOT'
+global.author = 'Adr Vlaad'
 global.igfg = 'https://instagram.com/global.techinc'
 global.fgsc = 'https://github.com/GlobalTechInfo/GLOBAL-MD'
 global.fgyt = 'https://youtube.com/@GlobalTechInfo'
